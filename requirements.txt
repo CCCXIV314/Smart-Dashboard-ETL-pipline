@@ -1,0 +1,7 @@
+apache-airflow
+apache-airflow-providers-postgres
+pandas>=2.0.0
+numpy>=1.24.0
+prophet>=1.1.0
+sqlalchemy>=2.0.0
+psutil>=5.9.0
